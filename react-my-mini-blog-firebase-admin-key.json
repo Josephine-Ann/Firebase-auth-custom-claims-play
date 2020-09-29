@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "react-my-mini-blog-2ac12",
+  "private_key_id": "27aa2c5968541b520a301c9d5185aae755c33c98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTsHXlmxtHcgOF\nWhK+qBNvaTmn3fG8HoP1hWUjuFeHZywE5oVBoo9py22494rARdpsvRCuGlsAyIDs\nwUu4oWOQnYCRitxwDV1vHwhd/8hfI1DzDCKxPB5TnRKiEnmQe8bGqNVJvM4LJpyW\ny+9Xh1uUMJXm7bLf3tZ0I5tFmowgRMNlPsdCJV7xQhPgOVi3D/QoZN6Qb7/rC/7P\n2wew0B0YZVWCKLtQChghoWxTy7Jr+4yoFv0+Z0JPvgNff3h8ffnN1tjB48v5dtVT\nyNQiJ1XFDoMbqsP07inqqZbci+Qwu39hFEJxjLQ6RgGBwoNhs0l6KCufke5ylF9i\nfzPP7xZxAgMBAAECggEANvG/sseFGwveJnbPoXGLJXgqtHp8C+X4ZteVPHhAzAWE\nmWAfdD8jhpLhg55IVubF741ZDsSMVZrCaBIzdwFHts35vmvAPcmjGIudg8b8hvRv\nEbTSlUhN6gJ2I6im5CtAVLkL/I5Kw1g+ilVdeh1H4zY+FncZBHN1KijzA66O8hPB\n9rDmSyxtYnfvib3Km3LstHpGLy4BU/nrjV77uq709Il5bVgjHUF6aM96+rZNE602\nR6AXqwa4jJejEHimw/kRK8rJhEhOAZJYlOb8gJYOsQsz9u8rFZPBsUP0XRt5YUQT\n3Eycj0TDsfzLMSpYVXisJ7UcAm2ot5Wtmpxcc1iiZwKBgQDPlvWH2wfRBk6K7qQ4\nVyMxIqfOMPljhiAzitGXnAk2lxl+gydeqYeG5z/hiwjWhLOWMQRVk0ngvEST2PES\nNaba7IOwnP0dnJckwGXug9q+zTDichaOcKyNBLd5Neji1r+WfrREIMV/M28K6zSD\nu5Cpak2PnZsN83CWbpA5LodpJwKBgQC2IXd5GSWqMdpUhul2UBCLG2D2rNqnkp5i\nW7Samnv3prfYlV8sKIxzeqwXuHUUNsLjorCzF0YlTIPW2kdzO2xvrr4esumLZQXt\no8aWhILZfmEbBR1PPQxvGnATK+gdZ4NvIAOeM7NuY7iBvJWdwEeT7OsfjbbmfUxV\nRMg1P51SpwKBgDf/ogZe+JHTYLarv5MPNogXsCq4HV5SnTcqOHXserPGOPNez+0C\nUHP8x8fA6MZtj8BxQpkPHXvJbbpwaD+gR32BFdk70C//wOoCGL0pxoV39rrvSdRs\n4q872X6SI1ul0JL5ZQmHyZ8Rsd/BKS5sF48MBRY7zssJo5KBCtjSC2c7AoGAPIFp\nu2VLSfs92Q7oyFFY7Z2u3MQX78uZqntkyGfB/0f3k5AsCfN+lW6PdWHmI0z9+bm2\nkgiNWR7OPbZOPk3jfEbFClXNmG17RrM96gsjnTWK9PsB/az+UHqr+PKBLiORWn18\nNjZeybF/Pjp0Se/y14XBpr3hoTjG/xzWljoH/ckCgYAEndiUzXgVbKXfm3f9qXaH\n7d5EBNk8JCZ/agZ6IwKl9DEPgw+AR3HhuVHQWeyS54fv8F0BRx9sSKTGQn63IfEh\nVFYKSxIUh3+s3T9A2xfjulN4PGKDRm5s/dvSqkxnwNIH2ohYqo0si5GAGgWMor92\n0C7Ih89hN+9MalPSQcx/qQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8ry77@react-my-mini-blog-2ac12.iam.gserviceaccount.com",
+  "client_id": "102046672959954365000",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8ry77%40react-my-mini-blog-2ac12.iam.gserviceaccount.com"
+}
